@@ -1,5 +1,6 @@
 package com.capgemini.hibernate_many_to_one;
 
+
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
@@ -33,3 +34,4 @@ public class App {
 		}
 	}
 }
+
