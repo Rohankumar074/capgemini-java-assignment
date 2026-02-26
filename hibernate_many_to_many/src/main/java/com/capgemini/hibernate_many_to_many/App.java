@@ -1,5 +1,6 @@
 package com.capgemini.hibernate_many_to_many;
 
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -51,3 +52,4 @@ public class App {
 		}
 	}
 }
+
